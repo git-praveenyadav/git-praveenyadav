@@ -13,9 +13,7 @@
 <!-- ⚡ SYSTEM STATUS BADGES ⚡ -->
 <div align="center">
   <img src="https://img.shields.io/badge/%E2%9A%A1_CORE-ELECTRICAL_ENGINEERING-00ffff?style=for-the-badge&logo=powerpages&logoColor=black" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/BRAIN-MACHINE_LEARNING-10b981?style=for-the-badge&logo=python&logoColor=white" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/STATUS-ACTIVE_DEVELOPER-3b82f6?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 ---
