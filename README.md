@@ -16,6 +16,9 @@
   <img src="https://img.shields.io/badge/BRAIN-MACHINE_LEARNING-10b981?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/STATUS-ACTIVE_DEVELOPER-3b82f6?style=for-the-badge&logo=github&logoColor=white" />
 </div>
+
+<br />
+
 ---
 
 ### 🧠 About Me
@@ -33,7 +36,6 @@
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   
   <!-- Data & ML -->
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -44,14 +46,6 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</div>
-
----
-
-### 📊 GitHub Live Analytics & Activity
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=git-praveenyadav&theme=tokyonight&hide_border=false" width="100%" />
 </div>
 
 ---
