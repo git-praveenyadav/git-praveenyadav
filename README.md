@@ -58,6 +58,14 @@
 
 ---
 
+### 🐍 Contribution Activity
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/git-praveenyadav/git-praveenyadav/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+</div>
+
+---
+
 ### ⚡ Featured Repositories
 
 | Project Name | Domain Focus | Key Features | Quick Link |
