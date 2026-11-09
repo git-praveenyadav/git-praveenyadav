@@ -13,8 +13,8 @@
 <!-- ⚡ SYSTEM STATUS BADGES ⚡ -->
 <div align="center">
   <img src="https://img.shields.io/badge/%E2%9A%A1_CORE-ELECTRICAL_ENGINEERING-00ffff?style=for-the-badge&logo=powerpages&logoColor=black" />
-  <img src="https://img.shields.io/badge/BRAIN-MACHINE_LEARNING-00ffff?style=for-the-badge&logo=python&logoColor=black&labelColor=00ffff" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE_DEVELOPER-0080ff?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/BRAIN-MACHINE_LEARNING-10b981?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE_DEVELOPER-3b82f6?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
 ---
