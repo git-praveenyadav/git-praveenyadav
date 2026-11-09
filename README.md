@@ -54,19 +54,15 @@
 ### 📊 GitHub Live Analytics & Activity
 
 <div align="center">
-  <!-- Dynamic GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=git-praveenyadav&show_icons=true&theme=tokyonight&hide_border=false" height="165" alt="GitHub Stats" />
-  
-  <!-- Most Used Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-praveenyadav&layout=compact&theme=tokyonight&hide_border=false" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.azurewebsites.net/api?username=git-praveenyadav&show_icons=true&theme=tokyonight&hide_border=false" height="165" />
+  <img src="https://github-readme-stats.azurewebsites.net/api/top-langs/?username=git-praveenyadav&layout=compact&theme=tokyonight&hide_border=false" height="165" />
 </div>
 
 <br />
 
 <div align="center">
-  <!-- Live Commit Streak Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=git-praveenyadav&theme=tokyonight&hide_border=false" width="90%" alt="GitHub Streak" />
-</div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=git-praveenyadav&theme=tokyonight&hide_border=false" width="90%" />
+</div>v
 
 ---
 
