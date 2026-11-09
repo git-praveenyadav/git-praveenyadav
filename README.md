@@ -54,16 +54,14 @@
 ### 📊 GitHub Live Analytics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.azurewebsites.net/api?username=git-praveenyadav&show_icons=true&theme=tokyonight&hide_border=false" height="165" />
-  <img src="https://github-readme-stats.azurewebsites.net/api/top-langs/?username=git-praveenyadav&layout=compact&theme=tokyonight&hide_border=false" height="165" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=git-praveenyadav&theme=tokyo-night&area=true&hide_border=false" width="100%" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=git-praveenyadav&theme=tokyonight&hide_border=false" width="90%" />
-</div>v
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=git-praveenyadav&theme=tokyonight&hide_border=false" width="100%" />
+</div>
 ---
 
 ### ⚡ Featured Repositories
