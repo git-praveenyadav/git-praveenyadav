@@ -54,13 +54,9 @@
 ### 📊 GitHub Live Analytics & Activity
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=git-praveenyadav&theme=tokyo-night&area=true&hide_border=false" width="100%" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=git-praveenyadav&theme=tokyonight&hide_border=false" width="100%" />
+  <img src="https://img.shields.io/badge/CONTRIBUTIONS-70%2B_COMMITS-00ffff?style=for-the-badge&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/badge/PRIMARY_LANGUAGE-PYTHON-00f0ff?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/DOMAINS-EE_%2B_MACHINE_LEARNING-0080ff?style=for-the-badge&logo=cpu&logoColor=white" />
 </div>
 ---
 
