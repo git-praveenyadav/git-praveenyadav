@@ -54,14 +54,6 @@
 ### 📊 GitHub Live Analytics & Activity
 
 <div align="center">
-  <!-- Stable Cyan Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=git-praveenyadav&theme=tokyo-night&area=true&hide_border=false" width="100%" />
-</div>
-
-<br />
-
-<div align="center">
-  <!-- Working Streak Stats Card -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=git-praveenyadav&theme=tokyonight&hide_border=false" width="100%" />
 </div>
 
