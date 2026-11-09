@@ -50,6 +50,14 @@
 
 ---
 
+### 📊 GitHub Live Analytics & Activity
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=git-praveenyadav&theme=tokyonight&hide_border=false" width="100%" />
+</div>
+
+---
+
 ### ⚡ Featured Repositories
 
 | Project Name | Domain Focus | Key Features | Quick Link |
@@ -71,3 +79,4 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=120&section=footer&animation=fadeIn" width="100%" alt="Cyan Footer Wave" />
 </div>
+
